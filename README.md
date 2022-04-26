@@ -1,2 +1,3 @@
-# UdaCityPracticalStatistics
-UdaCity Practical Statistics project
+# UdaCity Practical Statistics
+UdaCity Practical Statistics project submitted for Feb2022 cohort 
+data used are included
