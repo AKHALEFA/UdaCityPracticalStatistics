@@ -1,3 +1,4 @@
-# UdaCity Practical Statistics
-UdaCity Practical Statistics project submitted for Feb2022 cohort 
-data used are included
+# UdaCity Practical Statistics - Advanced Data Analysis
+
+UdaCity Practical Statistics project - Advanced Data Analysis submitted for Feb2022 cohort 
+> Data used are included
